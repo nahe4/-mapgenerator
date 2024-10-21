@@ -1,5 +1,4 @@
 import geopandas as gpd
-import geodatasets
 import matplotlib.pyplot as plt
 
 world = gpd.read_file('ne_10m_admin_0_countries')
